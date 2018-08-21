@@ -1,0 +1,6 @@
+c:\users\fl\documents\visual studio 2015\Projects\multiplicar_dos_numero\multiplicar_dos_numero\bin\Debug\multiplicar_dos_numero.exe.config
+c:\users\fl\documents\visual studio 2015\Projects\multiplicar_dos_numero\multiplicar_dos_numero\bin\Debug\multiplicar_dos_numero.exe
+c:\users\fl\documents\visual studio 2015\Projects\multiplicar_dos_numero\multiplicar_dos_numero\bin\Debug\multiplicar_dos_numero.pdb
+c:\users\fl\documents\visual studio 2015\Projects\multiplicar_dos_numero\multiplicar_dos_numero\obj\Debug\multiplicar_dos_numero.csprojResolveAssemblyReference.cache
+c:\users\fl\documents\visual studio 2015\Projects\multiplicar_dos_numero\multiplicar_dos_numero\obj\Debug\multiplicar_dos_numero.exe
+c:\users\fl\documents\visual studio 2015\Projects\multiplicar_dos_numero\multiplicar_dos_numero\obj\Debug\multiplicar_dos_numero.pdb
